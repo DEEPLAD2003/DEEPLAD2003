@@ -1,4 +1,4 @@
-![Master Image](https://addverb.com/wp-content/uploads/2023/05/semiconductor-1.jpg)
+![Master Image](https://cdn1.vogel.de/ceexKocOSZorHyQAROO9ZtZvpZE=/fit-in/800x0/p7i.vogel.de/wcms/ce/87/ce87fe736989818001cf1bbec58f76fc/0111695582.jpeg)
 <h1 align="center">Hello👋, I'm Deep. Hope you exploring something crucial..!</h1>
 <h3 align="center">Pursuing Engineering in Electronics with a keen interest in Embedded Systems and low-level systems. Highly adaptable with a strong problem-solving ability and technical proficiency, committed to upholding ethical stan- dards. Demonstrates a dynamic approach to challenges while ensuring precision and integrity in all endeavors.</h3>
 
