@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **deeplad0212@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/5f7yxtjp](https://tinyurl.com/5f7yxtjp)
+- 📄 My Resume: [https://tinyurl.com/5f7yxtjp](https://tinyurl.com/5f7yxtjp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
