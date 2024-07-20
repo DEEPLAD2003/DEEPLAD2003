@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Driver Development, STM32F3 based microcontroller**
 
-- 📫 How to reach me **deeplad0212@gmail.com**
+- 📫 How to reach me **laddeep49@gmail.com**
 
 - 📄 My Resume: [https://tinyurl.com/5f7yxtjp](https://tinyurl.com/5f7yxtjp)
 
